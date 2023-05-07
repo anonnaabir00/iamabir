@@ -3,7 +3,7 @@
 
         <div class="sm:w-full md:w-4/6 grid sm:grid-cols-1 md:grid-cols-2 place-items-center">
             <div class="w-full">
-                <h1 class="sm:text-xl md:text-5xl font-bold leading-normal">Hi, I am Runa Akter! <br> Creative Developer <br>Based in Florida</h1>
+                <h1 class="sm:text-xl md:text-5xl font-bold sm:leading-normal md:leading-normal">Hi, I am Runa Akter! <br> Creative Developer <br>Based in Dhaka</h1>
                 <p class="text-lg leading-relaxed font-light mt-4 mb-4">Hi, my name is Runa Akter and I love creating unique interfaces<br> using code. Pixel perfect every time just try me out.</p>
                 <div class="grid sm:grid-cols-1 md:grid-cols-2 gap-4 sm:w-full md:w-3/6 mt-6">
                     <button class="brand-color p-3 text-white rounded-md">Got A Project?</button>
@@ -22,7 +22,7 @@
         <div class="grid sm:grid-cols-1 md:grid-cols-2 w-4/6">
             <div class="my-auto">
                 <p class="sm:text-base md:text-xl leading-relaxed font-light mt-4 mb-2 sm:text-center md:text-left">-NICE TO MEET YOU!</p>
-                <h1 class="sm:text-2xl md:text-5xl font-bold leading-normal sm:text-center md:text-left">Runa Akter</h1>
+                <h1 class="sm:text-2xl md:text-5xl font-bold sm:leading-normal md:leading-normal sm:text-center md:text-left">Runa Akter</h1>
                 <p class="text-xl leading-relaxed font-normal mt-2 mb-4">Web Designer & Developer</p>
                 <button class="sm:hidden md:block brand-color p-3 text-white mt-4 rounded-md">Download CV</button>
             </div>
@@ -30,25 +30,20 @@
             <div class="m-auto">
                 <p class="text-lg leading-relaxed font-light mt-4 mb-4">There are many z of Lorem Ipsum available, but the majority have suffered alteration in some form</p>
                 <p class="text-lg leading-relaxed font-light mt-4 mb-4">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going</p>
-                <div class="grid sm:grid-cols-2 md:grid-cols-4 sm:gap-16 md:gap-6 mt-8 mb-6 text-left">
+                <div class="grid grid-cols-1 gap-6 mt-8 mb-6 text-left">
                     <div>
-                        <p class="text-base leading-relaxed font-light underline">AGE</p>
-                        <p class="text-lg leading-relaxed">29</p>
-                    </div>
-
-                    <div>
-                        <p class="text-base leading-relaxed font-light underline">BORN IN</p>
-                        <p class="text-lg leading-relaxed">Bangladesh</p>
+                        <p class="text-base leading-relaxed font-light underline">Address</p>
+                        <p class="text-lg leading-relaxed">137/12/18-B, Priyangon Recedencial Area,MIRPUR DARUSSALAM,Dhaka-1216</p>
                     </div>
 
                     <div>
                         <p class="text-base leading-relaxed font-light underline">MAIL</p>
-                        <p class="text-lg leading-relaxed">info@gmail.com</p>
+                        <p class="text-lg leading-relaxed">asaduzzaman.abir00@gmail.com</p>
                     </div>
 
                     <div>
                         <p class="text-base leading-relaxed font-light underline">CALL</p>
-                        <p class="text-lg leading-relaxed">+8801776181910</p>
+                        <p class="text-lg leading-relaxed">+880 1776181910</p>
                     </div>
 
                 </div>
@@ -60,7 +55,7 @@
     <div class="flex justify-center p-8 mb-16">
         <div class="grid sm:grid-cols-1 md:grid-cols-3 gap-6 sm:w-full md:w-4/6 text-center">
             <div class="background-color sm:p-6 md:p-16 animate__animated animate__fadeInUp animate__faster animate__delay-1s">
-                <h2 class="sm:text-2xl md:text-5xl font-bold leading-normal">10+</h2>
+                <h2 class="sm:text-2xl md:text-5xl font-bold leading-normal">05+</h2>
                 <p class="text-lg leading-relaxed font-light mt-4 mb-4">YEARS OF EXPERIENCE</p>
             </div>
 
