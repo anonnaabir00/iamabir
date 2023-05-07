@@ -14,5 +14,10 @@
     "@types/node": "^18",
     "nuxt": "^3.4.3",
     "nuxt-icon": "^0.4.0"
+  },
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "hover.css": "^2.3.2",
+    "kursor": "^0.1.6"
   }
 }
