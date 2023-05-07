@@ -2,13 +2,6 @@
   <Header />
   <NuxtLayout>
   </NuxtLayout>
+  <CTA />
   <Footer />
 </template>
-
-<script setup>
-// import kursor from 'kursor';
-
-// new kursor({
-//     type: 1
-// })
-</script>

@@ -16,8 +16,8 @@
     "nuxt-icon": "^0.4.0"
   },
   "dependencies": {
+    "@headlessui/vue": "^1.7.13",
     "animate.css": "^4.1.1",
-    "hover.css": "^2.3.2",
-    "kursor": "^0.1.6"
+    "hover.css": "^2.3.2"
   }
 }
