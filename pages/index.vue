@@ -133,10 +133,10 @@
 
     <div class="grid place-items-center p-8">
 
-        <div class="grid grid-cols-1 gap-6 w-4/6">
+        <div class="grid grid-cols-1 gap-6 sm:w-full md:w-4/6">
             <div class="mt-8 mb-6">
-                <p class="text-lg leading-relaxed font-light mt-4">- SERVICES</p>
-                <h2 class="text-5xl font-bold leading-normal mt-4">My Services</h2>
+                <p class="sm:text-base md:text-lg leading-relaxed font-light mt-4 sm:text-center md:text-left">- SERVICES</p>
+                <h2 class="sm:text-2xl md:text-5xl font-bold leading-normal mt-4 sm:text-center md:text-left">My Services</h2>
             </div>
 
             <div class="grid sm:grid-cols-1 md:grid-cols-3 gap-6">
