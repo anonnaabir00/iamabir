@@ -15,7 +15,7 @@
                 <li class="p-2"><a href="#portfolio">Portfolio</a></li>
                 <li class="p-2"><a href="#testimonial">Testimonial</a></li>
                 <li class="p-2"><a target="_blank" href="https://blog.iamabir.com">Blog</a></li>
-                <li class="p-2"><a href="#contact">Contact</a></li>
+                <li class="p-2"><a href="#webinar">Webinar</a></li>
             </ul>
         </div>
         <div class="mt-2">

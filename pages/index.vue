@@ -3,7 +3,7 @@
 
         <div class="sm:w-full md:w-4/6 grid sm:grid-cols-1 md:grid-cols-2 place-items-center">
             <div class="w-full">
-                <h1 class="sm:text-xl md:text-5xl font-bold sm:leading-normal md:leading-normal">Hi, I am Abir! <br> Full Stack Developer <br>Based in Dhaka</h1>
+                <h1 class="sm:text-xl md:text-5xl font-bold sm:leading-normal md:leading-normal">Hi, I am Abir! <br> Full Stack Developer</h1>
                 <p class="text-lg leading-relaxed font-light mt-4 mb-4">Passionate web developer with 5+ years, specializing in WordPress, Laravel, PHP, Javascript, VueJS, and Flutter. Transforming ideas into user-friendly websites and plugins. Eager to bring creativity and top-notch coding to a dynamic team.</p>
                 <div class="grid sm:grid-cols-1 md:grid-cols-2 gap-4 sm:w-full md:w-3/6 mt-6">
                     <button class="brand-color p-3 text-white rounded-md">Got A Project?</button>
@@ -184,7 +184,7 @@
 
 
 
-    <div id="portfolio"  class="background-color grid place-items-center p-8 pb-20">
+<div id="portfolio"  class="background-color grid place-items-center p-8 pb-20">
 
 <div class="grid grid-cols-1 gap-6 sm:w-full md:w-4/6">
     <div class="mt-8 mb-6 sm:text-center md:text-left">
@@ -264,6 +264,53 @@
             <div class="mb-4">⭐⭐⭐⭐⭐</div>
             <h4 class="text-xl font-bold leading-normal">Elisa Fernández</h4>
             <p class="text-base leading-relaxed font-light mt-4 mb-4">Working with Abir has been a great success. He completed exactly what I needed in under a week! I needed to transfer my Wix website to WordPress, for which he transferred all the data and mirrored the existing design (and even improved many things!). He was in constant contact with me, providing me with regular updates. He answered every single one of my queries with the utmost professionalism and he sends great screen recordings to show me how to fix an issue by myself after his job has been completed. Great, speedy work, great assistance and an overall great experience. Would recommend his services to anyone. Thanks, Abir!</p>
+        </div>
+
+    </div>
+    
+</div>  
+</div>
+
+
+<div id="webinar"  class="background-color grid place-items-center p-8 pb-20">
+
+<div class="grid grid-cols-1 gap-6 sm:w-full md:w-4/6">
+    <div class="mt-8 mb-6 sm:text-center md:text-left">
+        <p class="sm:text-base md:text-lg leading-relaxed font-light mt-4">- Videos</p>
+        <h2 class="sm:text-2xl md:text-5xl font-bold leading-normal mt-4">Webinar I have joined</h2>
+    </div>
+
+    <div class="grid sm:grid-cols-1 md:grid-cols-2 gap-6">
+        <div class="bg-white p-6 animate__animated animate__fadeInUp animate__slow animate__delay-1s">
+            <div class="grid justify-between w-4/6">
+                <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Inid9yyVA20?si=Vjf2Iv68UzjugMgn&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <h4 class="text-xl text-center font-bold leading-normal mt-6">DynoShop Webinar</h4>
+                <p class="text-lg text-center leading-relaxed font-light mt-4">Webinar Type: <strong>WordPress Product Discussion</strong></p>
+            </div>
+        </div>
+
+        <div class="bg-white p-6 animate__animated animate__fadeInUp animate__slow animate__delay-1s">
+            <div class="grid justify-between">
+                <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YPfPbz9xcdU?si=3IsfH_0hcin1favW&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <h4 class="text-xl text-center font-bold leading-normal mt-6">LocaPress Webinar</h4>
+                <p class="text-lg text-center leading-relaxed font-light mt-4">Webinar Type: <strong>WordPress Product Discussion</strong></p>
+            </div>
+        </div>
+
+        <div class="bg-white p-6 animate__animated animate__fadeInUp animate__slow animate__delay-1s">
+            <div class="grid justify-between">
+                <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3HM4IWtyg_k?si=VNOkerc_f3JaTuyR&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <h4 class="text-xl text-center font-bold leading-normal mt-6">LocalPress Webinar with Pitchground</h4>
+                <p class="text-lg text-center leading-relaxed font-light mt-4">Webinar Type: <strong>WordPress Product Discussion</strong></p>
+            </div>
+        </div>
+
+        <div class="bg-white p-6 animate__animated animate__fadeInUp animate__slow animate__delay-1s">
+            <div class="grid justify-between">
+                <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Z1ahJSq1BVM?si=gzNnLGYDvHLH2cug&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <h4 class="text-xl text-center font-bold leading-normal mt-6">Rig Elements Webinar with Pitchground</h4>
+                <p class="text-lg text-center leading-relaxed font-light mt-4">Webinar Type: <strong>WordPress Plugin Discussion</strong></p>
+            </div>
         </div>
 
     </div>
