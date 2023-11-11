@@ -18,7 +18,7 @@
         </div>
     </div>
 
-    <div class="flex justify-center sm:p-4 md:p-12">
+    <div id="about" class="flex justify-center sm:p-4 md:p-12">
         <div class="grid sm:grid-cols-1 md:grid-cols-2 w-4/6">
             <div class="my-auto">
                 <p class="sm:text-base md:text-xl leading-relaxed font-light mt-4 mb-2 sm:text-center md:text-left">- My Qualification</p>
@@ -76,7 +76,7 @@
     </div>
 
 
-    <div class="background-color grid place-items-center p-8 pb-20">
+    <div id="experience" class="background-color grid place-items-center p-8 pb-20">
 
             <div class="grid grid-cols-1 gap-6 sm:w-full md:w-4/6">
                 <div class="mt-8 mb-6 sm:text-center md:text-left">
@@ -136,7 +136,7 @@
 
 
 
-    <div class="grid place-items-center p-8">
+    <div id="services" class="grid place-items-center p-8">
 
         <div class="grid grid-cols-1 gap-6 sm:w-full md:w-4/6">
             <div class="mt-8 mb-6">
@@ -184,7 +184,7 @@
 
 
 
-    <div class="background-color grid place-items-center p-8 pb-20">
+    <div id="portfolio"  class="background-color grid place-items-center p-8 pb-20">
 
 <div class="grid grid-cols-1 gap-6 sm:w-full md:w-4/6">
     <div class="mt-8 mb-6 sm:text-center md:text-left">
@@ -227,7 +227,7 @@
 
 
 
-<div class="grid place-items-center p-8 pb-20">
+<div id="testimonial" class="grid place-items-center p-8 pb-20">
 
 <div class="grid grid-cols-1 gap-6 sm:w-full md:w-4/6">
     <div class="mt-8 mb-6 sm:text-center md:text-left">

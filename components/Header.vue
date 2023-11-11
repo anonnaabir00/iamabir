@@ -9,11 +9,13 @@
         </div>
         <div>
             <ul class="flex justify-between text-base font-light space-x-6">
-                <li class="p-2">About Me</li>
-                <li class="p-2">Testimonial</li>
-                <li class="p-2">Services</li>
-                <li class="p-2">Blog</li>
-                <li class="p-2">Contact</li>
+                <li class="p-2"><a href="#about">About Me</a></li>
+                <li class="p-2"><a href="#experience">Experience</a></li>
+                <li class="p-2"><a href="#services">Services</a></li>
+                <li class="p-2"><a href="#portfolio">Portfolio</a></li>
+                <li class="p-2"><a href="#testimonial">Testimonial</a></li>
+                <li class="p-2"><a target="_blank" href="https://blog.iamabir.com">Blog</a></li>
+                <li class="p-2"><a href="#contact">Contact</a></li>
             </ul>
         </div>
         <div class="mt-2">

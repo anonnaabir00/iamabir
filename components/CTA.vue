@@ -1,5 +1,5 @@
 <template>
-        <div class="flex justify-center p-12 brand-color text-white">
+        <div id="contact" class="flex justify-center p-12 brand-color text-white">
         <div class="grid sm:grid-cols-1 md:grid-cols-2 w-4/6">
             <div class="my-auto">
                 <p class="sm:text-base md:text-xl leading-relaxed font-light mt-4 mb-2 sm:text-center md:text-left">- LET’S CONINECT</p>
