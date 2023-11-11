@@ -5,7 +5,7 @@
     <div class="w-4/6 flex justify-between bg-white p-6">
         <div>
             <!-- <a href="/"><img class="w-42 h-9" src="https://codember.s3.us-west-2.amazonaws.com/themespell/wp-content/uploads/2021/06/themespell_new-300x51.png" alt="themespell"></a>-->
-            <a href="/"><h2 class="text-2xl font-bold mt-1">Runa Akter</h2></a>
+            <a href="/"><h2 class="text-2xl font-bold mt-1">Asaduzzaman Abir</h2></a>
         </div>
         <div>
             <ul class="flex justify-between text-base font-light space-x-6">
@@ -27,7 +27,7 @@
 
     <div class="sm:grid md:hidden grid-cols-2 items-center p-6">
     <div><a href="/">
-        <h2 class="text-2xl font-bold mt-1">Runa Akter</h2>
+        <h2 class="text-2xl font-bold mt-1">Asaduzzaman Abir</h2>
     </a></div>
 
     <div>
