@@ -14,7 +14,7 @@
                 <li class="p-2"><a href="#services">Services</a></li>
                 <li class="p-2"><a href="#portfolio">Portfolio</a></li>
                 <li class="p-2"><a href="#testimonial">Testimonial</a></li>
-                <li class="p-2"><a target="_blank" href="https://blog.iamabir.com">Blog</a></li>
+                <li class="p-2"><a target="_blank" href="https://medium.com/@asadabir">Blog</a></li>
                 <li class="p-2"><a href="#webinar">Webinar</a></li>
             </ul>
         </div>
@@ -47,10 +47,10 @@
       <MenuItems class="absolute right-0 z-10 mt-2 w-56 origin-top-right rounded-md bg-white shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none">
         <div class="py-1">
         <MenuItem v-slot="{ active }">
-            <a href="/private-tours" :class="[active ? 'bg-gray-100 text-gray-900' : 'text-gray-700', 'block px-4 py-2 text-sm']">About Me</a>
+            <a href="#about" :class="[active ? 'bg-gray-100 text-gray-900' : 'text-gray-700', 'block px-4 py-2 text-sm']">About Me</a>
           </MenuItem>
         <MenuItem v-slot="{ active }">
-            <a href="#services" :class="[active ? 'bg-gray-100 text-gray-900' : 'text-gray-700', 'block px-4 py-2 text-sm']">Testimonial</a>
+            <a href="#experience" :class="[active ? 'bg-gray-100 text-gray-900' : 'text-gray-700', 'block px-4 py-2 text-sm']">Experience</a>
           </MenuItem>
           <MenuItem v-slot="{ active }">
             <a href="#cars" :class="[active ? 'bg-gray-100 text-gray-900' : 'text-gray-700', 'block px-4 py-2 text-sm']">Services</a>
